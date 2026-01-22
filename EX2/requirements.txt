@@ -1,0 +1,11 @@
+------------------------------------------
+Exercise 2
+------------------------------------------
+Enviroment: Google Colab Free Tier 
+
+OS: Linux-6.6.105+-x86_64-with-glibc2.35
+Python version: 3.12.12
+NumPy: 2.0.2
+PennyLane: 0.43.2
+Pandas: 2.2.2
+Seaborn: 0.13.2
