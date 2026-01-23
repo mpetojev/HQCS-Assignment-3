@@ -36,7 +36,7 @@ Repository structure reffers to:
 - `EX3` – Bonus: Noise in QML and Shadows  
 - `EX4` – Quantum Circuit Compilation (Bernstein–Vazirani)
 
-### Data Sets for Exercise 1
+### Data Sets for Exercise 1 and 3
 
 The datasets provided on **TUWEL** (`gluehweindorf.csv`, `lebkuchenstadt.csv`, `krampuskogel.csv`) must be:
 
@@ -46,8 +46,13 @@ The datasets provided on **TUWEL** (`gluehweindorf.csv`, `lebkuchenstadt.csv`, `
 ```bash
 EX1/HQCS2025_GROUP_10_ASSIGNMENT3_EX_1.ipynb
 ```
+and
 
-before running the notebook.
+```bash
+EX1/HQCS2025_GROUP_10_ASSIGNMENT3_EX_3.ipynb
+```
+
+before running the notebooks.
 
 ## How to run
 Open the repository in Google Colab or locally with Jupyter and execute the notebooks in each `EX*` folder.  
