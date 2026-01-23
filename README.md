@@ -27,6 +27,7 @@ Each exercise is implemented and documented in a separate Jupyter notebook.
 ├── EX4/
 │ └── HQCS2025_GROUP_10_ASSIGNMENT3_EX_4.ipynb
 └── README.md
+└── HQCS2025-GROUP-10-ASSIGNMENT3-REPORT.pdf
 ```
 
 Repository structure reffers to:
